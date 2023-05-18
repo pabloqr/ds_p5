@@ -34,7 +34,7 @@
 /bin/*
 
 ## config files
-/config/*
+/config/*.enc
 /configDB/*
 /configPMA/*
 
